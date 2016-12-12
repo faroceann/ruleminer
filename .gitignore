@@ -7,5 +7,8 @@ __pycache__
 # Private data
 data
 
+# Logs
+npm-debug.log
+
 # Personal scripts 
 preprocess.py
