@@ -29,7 +29,7 @@ pip install zerorpc
 
 # Clone the repo
 $ git clone https://github.com/maxhammad/ruleminer.git
-$ cd assocation-rule-learning-api
+$ cd ruleminer
 $ npm install
 ```
 
@@ -60,7 +60,7 @@ sudo pip install zerorpc
 
 # Clone the repo
 $ git clone https://github.com/maxhammad/ruleminer.git
-$ cd assocation-rule-learning-api
+$ cd ruleminer
 $ npm install
 ```
 
@@ -68,7 +68,7 @@ $ npm install
 
 ```bash
 $ git clone https://github.com/maxhammad/ruleminer.git
-$ cd assocation-rule-learning-api
+$ cd ruleminer
 $ npm install
 ```
 
