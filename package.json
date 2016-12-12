@@ -1,11 +1,8 @@
 {
-  "name": "nodejs-association-rule-miner",
+  "name": "node-express-association-rule-learning-api",
   "version": "1.0.0",
-  "description": "Node.js/Python3 API for association rule mining with React client. Apriori algorithm implementation courtesy of @asaini",
+  "description": "Association rule learning API. Apriori algorithm implementation courtesy of @asaini",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {

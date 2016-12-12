@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# Caches
+__pycache__
+
+# Private data
+data
+
+# Personal scripts 
+preprocess.py

@@ -28,7 +28,7 @@ pip install pyzmq
 pip install zerorpc
 
 # Clone the repo
-$ git clone https://github.com/mikedeboer/assocation-rule-learning-api.git
+$ git clone https://github.com/maxhammad/node-express-assocation-rule-learning-api.git
 $ cd assocation-rule-learning-api
 $ npm install
 ```
@@ -59,7 +59,7 @@ sudo pip install pyzmq
 sudo pip install zerorpc
 
 # Clone the repo
-$ git clone https://github.com/mikedeboer/assocation-rule-learning-api.git
+$ git clone https://github.com/maxhammad/node-express-assocation-rule-learning-api.git
 $ cd assocation-rule-learning-api
 $ npm install
 ```
@@ -67,7 +67,7 @@ $ npm install
 ##### Install via git clone
 
 ```bash
-$ git clone https://github.com/mikedeboer/assocation-rule-learning-api.git
+$ git clone https://github.com/maxhammad/node-express-assocation-rule-learning-api.git
 $ cd assocation-rule-learning-api
 $ npm install
 ```
