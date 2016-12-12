@@ -80,7 +80,6 @@ Expects multipart form data that includes ```csv``` of content type ```text/csv`
 Each tuple in your CSV should be an itemset in the form of ```item a, item b, item c```. Items in itemsets are expected to be comma delimited, and itemsets should be delimited by newlines. Numerical data isn't very useful for association rule learning, so you should consider discretizing it. The CSV is not expected to contain a header row.
 
 ## License (MIT)
-=====================
 
 Copyright © 2016 Max Hammad
 
