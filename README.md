@@ -1,6 +1,6 @@
 ## Overview
 
-Perform association rule learning using the Apriori algorithm on CSV file uploads. This API provides a POST endpoint that expects form data that a CSV file, minimum support, and minimum confidence thresholds. It responds with association rules in JSON. 
+Perform association rule learning using the Apriori algorithm on CSV file uploads. This API provides a POST endpoint that expects form data that includes a CSV file, minimum support, and minimum confidence thresholds. It responds with association rules in JSON. 
 
 ## System Dependencies
 * Python3
