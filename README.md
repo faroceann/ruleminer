@@ -1,6 +1,6 @@
 ## Overview
 
-Perform association rule learning using the Apriori algorithm on CSV file uploads. This API provides a POST endpoint that expects form data that includes a CSV file, minimum support, and minimum confidence thresholds. It responds with association rules in JSON. 
+ruleminer is an API that performs association rule mining on any dataset in CSV file format. Association rule discovery can be useful for market basket analysis, user behavior analysis, or even fraud detection. This API provides a single endpoint that accepts a CSV file and returns rules generated in JSON format. ruleminer uses the Apriori algorithm. Due credit to asaini for creating the Python implementation of Apriori used in this project.
 
 ## System Dependencies
 * Python3
