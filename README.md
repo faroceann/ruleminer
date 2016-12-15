@@ -81,7 +81,7 @@ $ npm install
 Expects multipart form data that includes ```csv``` of content type ```text/csv```, and  ```minSupport``` and ```minConfidence``` values. Note that ```minSupport``` and ```minConfidence``` must each be a float value between 0 - 1 (inclusive). According to @asaini, best results are obtained with a ```minConfidence``` of ```0.6```, and ```minSupport``` of ```0.15```. This is a good starting point; however,  it may be hard to find prevailing rules in large datasets with a minimum support level set that high. You should experiment with adjusting your minimum support threshold. Setting a minimum support threshold too low may yield too many uninteresting rules, while setting it too high may cause you to miss some interesting rules for rarer items in the dataset.
 
 ## CSV Data Formatting Expectations
-Each tuple in your CSV should be an itemset in the form of ```item a, item b, item c```. Items in itemsets are expected to be comma delimited, and itemsets should be delimited by newlines. Numerical data isn't very useful for association rule learning, so you should consider discretizing it. The CSV is not expected to contain a header row. It should be UTF-8 encoded. 
+Each tuple in your CSV should be an itemset in the form of ```item a, item b, item c```. Items in itemsets are expected to be comma delimited, and itemsets should be delimited by newlines. Numerical data isn't very useful for association rule learning, so you should consider discretizing it. The CSV is not expected to contain a header row. It should have UTF-8 encoding. 
 
 ## License (MIT)
 
